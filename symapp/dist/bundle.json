@@ -1,0 +1,13 @@
+{
+  "applications": [
+    {
+      "type": "sandbox",
+      "id": "tradeokblt",
+      "name": "TradeOK - TradeBlotter V2",
+      "blurb": "Hackathon SG/HK/TK 2018 - TradeOK TradeBlotter",
+      "publisher": "Symphony TradeOK",
+      "url": "https://localhost:4000/controller.html",
+      "domain": "localhost"
+    }
+  ]
+}

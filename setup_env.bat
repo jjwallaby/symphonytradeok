@@ -1,0 +1,1 @@
+set PATH=D:\nodejs-v6.10.1;D:\uxsotool\uxtool\usr\local\wbin;%PATH%;

@@ -1,0 +1,42 @@
+
+.carousel {
+
+    height: 100%;
+    width: 100%;
+
+}
+.carousel-caption {
+    text-align: left;
+    margin-bottom: 1px;
+    width: 100%;
+    height: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    position: initial;
+    left: 0%;
+    right: 0%;
+    bottom: 0px;
+
+}
+
+.carousel-inner {
+    position: relative;
+    overflow: scroll;
+    width: 100%;
+    height: 100%;
+}
+
+.panel-body {
+    padding: 1px;
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1px;
+
+}
+
+.panel-primary2 {
+    border-color: rgba(0, 0, 0, 0.6);
+    height: 230px;
+}

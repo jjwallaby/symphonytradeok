@@ -1,0 +1,382 @@
+{
+"repos" : [
+    {
+        "Name" : "KT CORP"
+        ,"Ticker" : "KOREAT 2 5/8 04/22/19"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "KOREAT 2.625 19"
+        ,"ISIN" : "BBG006BJKKY8"
+        ,"CCY" : "USD"
+        ,"Position" : "5000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180611"
+        ,"Tenor" : "7d"
+        ,"TargetRate" : 1.65
+        ,"no" : "1"
+        ,"keyid" : "KT CORP1"
+    }
+
+    ,{
+        "Name" : "DBS BANK LTD"
+        ,"Ticker" : "DBSSP 0 07/15/21"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "DBSSP 0 7/15/21"
+        ,"ISIN" : "BBG0000CRMR5"
+        ,"CCY" : "USD"
+        ,"Position" : "15000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.675
+        ,"no" : "2"
+        ,"keyid" : "DBS BANK LTD2"
+    }
+
+    ,{
+        "Name" : "GS CALTEX CORP"
+        ,"Ticker" : "GSCCOR 3 06/18/19"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "GSCCOR 3 19"
+        ,"ISIN" : "BBG006MLZGY4"
+        ,"CCY" : "USD"
+        ,"Position" : "12000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.675
+        ,"no" : "3"
+        ,"keyid" : "GS CALTEX CORP3"
+    }
+
+    ,{
+        "Name" : "KOREA EAST-WEST POWER CO"
+        ,"Ticker" : "KOEWPW 2 5/8 11/27/18"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "KOEWPW 2.625 18"
+        ,"ISIN" : "BBG005MPK489"
+        ,"CCY" : "USD"
+        ,"Position" : "8000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.675
+        ,"no" : "4"
+        ,"keyid" : "KOREA EAST-WEST POWER CO4"
+    }
+
+    ,{
+        "Name" : "KIA MOTORS CORP"
+        ,"Ticker" : "KIAMTR 3 1/4 04/21/26"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "KIAMTR 3.25 26"
+        ,"ISIN" : "BBG00CP54ZJ2"
+        ,"CCY" : "USD"
+        ,"Position" : "-15000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.6
+        ,"no" : "5"
+        ,"keyid" : "KIA MOTORS CORP5"
+    }
+
+    ,{
+        "Name" : "KOOKMIN BANK"
+        ,"Ticker" : "CITNAT 2 1/4 02/03/21"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "CITNAT 2.25 21"
+        ,"ISIN" : "BBG00C180X83"
+        ,"CCY" : "USD"
+        ,"Position" : "2000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.675
+        ,"no" : "6"
+        ,"keyid" : "KOOKMIN BANK6"
+    }
+
+    ,{
+        "Name" : "INDUSTRIAL BANK OF KOREA"
+        ,"Ticker" : "INDKOR 2 1/4 02/06/20"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "INDKOR 2.25 20"
+        ,"ISIN" : "BBG00FV8YTS3"
+        ,"CCY" : "USD"
+        ,"Position" : "3000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.675
+        ,"no" : "7"
+        ,"keyid" : "INDUSTRIAL BANK OF KOREA7"
+    }
+
+    ,{
+        "Name" : "KOREA EAST-WEST POWER CO"
+        ,"Ticker" : "KOEWPW 2 1/2 06/02/20"
+        ,"SecType" : "EURO-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "KOEWPW 2.5 20"
+        ,"ISIN" : "BBG007LSQTM3"
+        ,"CCY" : "USD"
+        ,"Position" : "-10000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.6
+        ,"no" : "8"
+        ,"keyid" : "KOREA EAST-WEST POWER CO8"
+    }
+
+    ,{
+        "Name" : "CAPITALAND LTD"
+        ,"Ticker" : "CAPLSP 2.95 06/20/22"
+        ,"SecType" : "EURO NON-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "CAPLSP 2.95 22"
+        ,"ISIN" : "BBG0000HYWQ5"
+        ,"CCY" : "SGD"
+        ,"Position" : "2500000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180611"
+        ,"Tenor" : "7d"
+        ,"TargetRate" : 1.675
+        ,"no" : "9"
+        ,"keyid" : "CAPITALAND LTD9"
+    }
+
+    ,{
+        "Name" : "OUE LTD"
+        ,"Ticker" : "OUESP 3 04/13/23"
+        ,"SecType" : "EURO NON-DOLLAR"
+        ,"Sector" : "Corp"
+        ,"ShortDesc" : "OUESP 3 23"
+        ,"ISIN" : "BBG00K9YK2S4"
+        ,"CCY" : "SGD"
+        ,"Position" : "3500000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180611"
+        ,"Tenor" : "7d"
+        ,"TargetRate" : 1.675
+        ,"no" : "10"
+        ,"keyid" : "OUE LTD10"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 1/4 04/30/19"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.25 19"
+        ,"ISIN" : "BBG002WRBNQ9"
+        ,"CCY" : "USD"
+        ,"Position" : "-5000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180605"
+        ,"Tenor" : "Open"
+        ,"TargetRate" : 1.575
+        ,"no" : "11"
+        ,"keyid" : "US TREASURY N/B11"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 1/8 08/31/21"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.125 21"
+        ,"ISIN" : "BBG00DM1BYY0"
+        ,"CCY" : "USD"
+        ,"Position" : "-15000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.6
+        ,"no" : "12"
+        ,"keyid" : "US TREASURY N/B12"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 1/4 06/30/19"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.25 19"
+        ,"ISIN" : "BBG00H15B079"
+        ,"CCY" : "USD"
+        ,"Position" : "-13000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.6
+        ,"no" : "13"
+        ,"keyid" : "US TREASURY N/B13"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 3/8 12/31/18"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.375 18"
+        ,"ISIN" : "BBG002BHSVJ6"
+        ,"CCY" : "USD"
+        ,"Position" : "-8000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180605"
+        ,"Tenor" : "Open"
+        ,"TargetRate" : 1.575
+        ,"no" : "14"
+        ,"keyid" : "US TREASURY N/B14"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 2 11/15/26"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 2 26"
+        ,"ISIN" : "BBG00F5RQC97"
+        ,"CCY" : "USD"
+        ,"Position" : "15000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.6
+        ,"no" : "15"
+        ,"keyid" : "US TREASURY N/B15"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 1/8 06/30/21"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.125 21"
+        ,"ISIN" : "BBG00D3CKM73"
+        ,"CCY" : "USD"
+        ,"Position" : "-2000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180605"
+        ,"Tenor" : "Open"
+        ,"TargetRate" : 1.575
+        ,"no" : "16"
+        ,"keyid" : "US TREASURY N/B16"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 3/8 10/31/20"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.375 20"
+        ,"ISIN" : "BBG00B9C7Y34"
+        ,"CCY" : "USD"
+        ,"Position" : "-3000000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.6
+        ,"no" : "17"
+        ,"keyid" : "US TREASURY N/B17"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 3/8 05/31/20"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.375 20"
+        ,"ISIN" : "BBG004M9QYH6"
+        ,"CCY" : "USD"
+        ,"Position" : "10000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.675
+        ,"no" : "18"
+        ,"keyid" : "US TREASURY N/B18"
+    }
+
+    ,{
+        "Name" : "US TREASURY N/B"
+        ,"Ticker" : "T 1 7/8 03/31/22"
+        ,"SecType" : "US GOVERNMENT"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "T 1.875 22"
+        ,"ISIN" : "BBG00GB9ZD23"
+        ,"CCY" : "USD"
+        ,"Position" : "1000000"
+        ,"Side" : "Lend"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 1.65
+        ,"no" : "19"
+        ,"keyid" : "US TREASURY N/B19"
+    }
+
+    ,{
+        "Name" : "SINGAPORE GOVERNMENT"
+        ,"Ticker" : "SIGB 3 1/8 09/01/22"
+        ,"SecType" : "DOMESTIC"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "SIGB 3.125 22"
+        ,"ISIN" : "8521217458302"
+        ,"CCY" : "SGD"
+        ,"Position" : "-2500000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 0.5
+        ,"no" : "20"
+        ,"keyid" : "SINGAPORE GOVERNMENT20"
+    }
+
+    ,{
+        "Name" : "SINGAPORE GOVERNMENT"
+        ,"Ticker" : "SIGB 2 3/4 07/01/23"
+        ,"SecType" : "DOMESTIC"
+        ,"Sector" : "Govt"
+        ,"ShortDesc" : "SIGB 2.75 23"
+        ,"ISIN" : "8521250283296"
+        ,"CCY" : "SGD"
+        ,"Position" : "-3500000"
+        ,"Side" : "Borrow"
+        ,"Start" : "20180604"
+        ,"End" : "20180618"
+        ,"Tenor" : "14d"
+        ,"TargetRate" : 0.5
+        ,"no" : "21"
+        ,"keyid" : "SINGAPORE GOVERNMENT21"
+    }
+
+    ]
+}
