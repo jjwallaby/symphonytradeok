@@ -6,7 +6,7 @@ The overall purpose is showing the flow from Internal banking system Repo trades
 
 and showing this view as an React App in the Symphony Platform '**Client API Extension**'.
 
-The more detail overview can be seen on Linked In.
+The more detail overview can be seen on Linked In. [https://www.linkedin.com/pulse/symphony-hackathon-2018-sghktky-team-tradeok-justin-woodhead](https://www.linkedin.com/pulse/symphony-hackathon-2018-sghktky-team-tradeok-justin-woodhead "Symhpony hackathon - TradeIOK  recast.ai integration")
 
 Below 2 and 3 applications will not really work unles you have access/sll certtificates to develop2 symphony server.
 
@@ -91,11 +91,7 @@ https://develop2.symphony.com/client/index.html?bundle=https://localhost:4000/bu
 
 You can now use the APP. in Symphony platform.
 
-
-
 Should look like this :-
 
 ![](/assets/botuser60.png)
-
-
 
